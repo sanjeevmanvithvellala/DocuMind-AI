@@ -1,0 +1,7 @@
+{
+  "name": "DocuMind AI",
+  "assignment_question": 5,
+  "deliverable": "Streamlit PDF summarization and question answering app",
+  "entrypoint": "app.py",
+  "requires_api_key": true
+}
