@@ -1,8 +1,5 @@
 # DocuMind AI — PDF Summarization & Question Answering
 
-A Streamlit application for Generative AI Assignment 2, Question 5:
-**AI Document Summarization and Question Answering System**.
-
 ## Features
 
 - Upload and extract text from a PDF, preserving page numbers.
